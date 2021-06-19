@@ -1,0 +1,14 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  	      (=) REQUISITOS (=)
+
+  	==> NodeJS
+   			      WinRAR <==
+   
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ COM O NODEJS BAIXADO, CLIQUE NO "INSTALAR.BAT"
+	PARA QUE O "INICIAR.BAT" FUNCIONE.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
